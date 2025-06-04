@@ -12,4 +12,4 @@ python main.py
 .
 hey
 
-/....
+/
