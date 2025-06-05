@@ -11,5 +11,3 @@ python main.py
 `
 .
 hey
-
-/
