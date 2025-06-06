@@ -10,5 +10,4 @@ Make sure you have Python installed, then run:
 python main.py
 `
 .
-hey
-;
+he
