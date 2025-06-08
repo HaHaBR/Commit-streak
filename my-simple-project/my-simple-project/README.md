@@ -12,3 +12,4 @@ python main.py
 .
 h
 allo
+w
