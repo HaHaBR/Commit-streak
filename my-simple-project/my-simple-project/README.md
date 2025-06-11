@@ -8,3 +8,4 @@ Make sure you have Python installed, then run:
 
 ```bash
 test
+live
